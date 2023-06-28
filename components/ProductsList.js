@@ -1,6 +1,6 @@
 import { ProductCard } from "./productCard";
 import styles from "../styles/components/ProductsList.module.scss";
-import MyModal from "./myModal";
+import MyModal from "./MyModal";
 import DetailedProductCard from "./DetailedProductCard";
 import { useState } from "react";
 
