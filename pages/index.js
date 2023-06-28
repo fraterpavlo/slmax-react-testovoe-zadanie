@@ -1,17 +1,11 @@
-// import Link from "next/link";
-// import A from "../components/A";
-// import Head from "next/head";
-import MainContainer from "../components/MainContainer";
-
+import MainLayout from "../components/MainLayout";
 
 const Index = () => {
-    return (
-            <MainContainer>
-
-                <h1>Главная страница</h1>
-
-            </MainContainer>
-    );
+  return (
+    <MainLayout>
+      <h1>Главная страница</h1>
+    </MainLayout>
+  );
 };
 
 export default Index;

@@ -1,0 +1,15 @@
+.header {
+  background-color: #2264d5;
+  padding: 15px;
+}
+
+.header__nav {
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+}
+
+.header__link {
+  text-decoration: none;
+  color: #FFF;
+}
