@@ -20,4 +20,4 @@
 
 
 
-# [Нажмите](https://grand-profiterole-87f573.netlify.app/), чтобы открыть приложение.
+# [Нажмите](https://slmax-react-testovoe-zadanie-hb7u.vercel.app/products), чтобы открыть приложение.
